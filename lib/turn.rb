@@ -34,7 +34,11 @@ def turn(board)
   end
 end
 
+<<<<<<< HEAD
 
+=======
+   
+>>>>>>> 659f2ce6421295385a62c564a62d954009658875
 
 
  def valid_move?(board, index)
